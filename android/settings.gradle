@@ -1,0 +1,3 @@
+rootProject.name = 'ComponentLifeCycle'
+
+include ':app'
